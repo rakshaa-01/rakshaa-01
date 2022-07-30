@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @rakshaa-01
 - 👀 I’m interested in development!
-- 🌱 I’m currently learning tools used in web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 rakshaa-01/rakshaa-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
